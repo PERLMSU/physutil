@@ -16,7 +16,7 @@
 title: PhysUtil
 email: perl@pa.msu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  PhysUtil is an open-source module that can be used generate motion diagrams, graphs and timers from within a VPython or Glowscript program. 
+  PhysUtil is an open-source module that can be used generate motion diagrams, graphs and timers from within a VPython or Glowscript program.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
