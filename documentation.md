@@ -4,6 +4,8 @@ title: Documentation
 permalink: /documentation/
 ---
 
+# Documentation
+
 PhysUtil has several tools that can help new modelers develop highly visual simulations:
 
 * MotionMap

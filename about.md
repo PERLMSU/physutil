@@ -1,8 +1,10 @@
 ---
 layout: page
 title: About PhysUtil
-permalink: /about/
+permalink: index.html
 ---
+
+# PhysUtil
 
 PhysUtil is an open-source module that can be used generate motion diagrams
 (stroboscopic images), graphs and timers from within a VPython or Glowscript program.

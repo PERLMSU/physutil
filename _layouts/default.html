@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container">
+
+      {% include header.html %}
+
+        <div class="well well-lg">
+
+          {{ content }}
+
+        </div>
+
+        {% if page.comments %}
+
+          <div class="well">
+
+            <h2>Leave a comment</h2>
+
+            {% include disqus.html %}
+
+          </div>
+        {% endif %}
+
+    {% include footer.html %}
+
+  </div>
+
+  </body>
+
+</html>
